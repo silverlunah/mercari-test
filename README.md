@@ -5,10 +5,15 @@ This contains codes for Excerise 2 of Mercari application process. Will delete t
 ** ----------------------------------------------------------------------Assets------------------------------------------------------------------------- **
 
 Total tests:
+
 Suites: 1
+
     Tagged as @SUITE-1
+
 Test cases: 2
+
     Scenario 1: Tagged as @MERCARI-1
+    
     Scenario 2: Tagged as @MERCARI-2
 
 ** --------------------------------------------------------------------How to run----------------------------------------------------------------------- **
