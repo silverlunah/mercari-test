@@ -1,4 +1,4 @@
-** -----------------------------------------------------Repository Info----------------------------------------------------- **
+** -----------------------------------------------------Repository Info------------------------------------------------------ **
 
 This contains codes for Excerise 2 of Mercari application process. Will delete this repository after.
 
