@@ -20,7 +20,7 @@ Test cases: 2
 
 To run using terminal, use the command:  
 
-npx playwright test --grep "@SUITE-1" --project=chromium
+    npx playwright test --grep "@SUITE-1" --project=chromium
 
 This will run the whole suite which covers Excercise 2 (Scenario 1 and
 Scenario 2). You can cherry-pick @MERCARI-1 to run Scenario 1
